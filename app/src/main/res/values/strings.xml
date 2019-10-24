@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Loo Jia Yi</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education: \n
+        \n\tTadika XXX\n
+        \n\tSJK(C) Khai Chee, Kuala Lumpur\n
+        \n\tSMK Kepong Baru, Kuala Lumpur\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \nWorking Experiences:\n
+        \n\tTuition teacher\n
+        \n\tSales promoter\n
+        \n\tEvent crew\n
+    </string>
+</resources>
